@@ -1,0 +1,1 @@
+In p3s problem set, the last element of the coordinates list is the depot's coordinates.
